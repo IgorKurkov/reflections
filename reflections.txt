@@ -18,3 +18,8 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
 How can you use the staging area to make sure you have one commit per logical change?
+ u can use staging area with few commands:
+ git diff 
+ git diff --staged
+ git diff commit1 commit2
+ It very useful for checking yourself and seeing progress 
