@@ -5,7 +5,7 @@
    <img align="middle" src=""/>
    <img align="middle" src=""/>
 
-## Some reflections about git course ##
+ ## Lesson 1 git reflections ## 
 **How did viewing a diff between two versions of a file help you see the bug that
 was introduced?**
 

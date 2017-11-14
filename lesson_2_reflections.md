@@ -1,3 +1,11 @@
+  <img align="right" src="http://media.w3guy.com/wp-content/uploads/2015/02/git.jpg" width="80" height="80"/> 
+  <img align="left" src="https://www.kdnuggets.com/wp-content/uploads/udacity-logo.jpg" width="300" height="70"/>
+  
+   <img align="middle" src=""/>
+   <img align="middle" src=""/>
+
+## Lesson 2 Git reflections ##
+
 **What happens when you initialize a repository? Why do you need to do it?**
 
 **How is the staging area different from the working directory and the repository?
@@ -19,3 +27,9 @@ What value do you think it offers?**
 
 **What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?**
+
+[Lesson_1_reflections.md](../blob/master/Lesson_1_reflections.md)
+
+[Lesson_3_reflections.md](../blob/master/Lesson_3_reflections.md)
+
+

@@ -1,4 +1,10 @@
+  <img align="right" src="http://media.w3guy.com/wp-content/uploads/2015/02/git.jpg" width="80" height="80"/> 
+  <img align="left" src="https://www.kdnuggets.com/wp-content/uploads/udacity-logo.jpg" width="300" height="70"/>
+  
+   <img align="middle" src=""/>
+   <img align="middle" src=""/>
 
+## Lesson 3 git reflections ##
 **When would you want to use a remote repository rather than keeping all your work
 local?**
 
@@ -24,4 +30,7 @@ and what would be harder?**
 **When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?**
 
-    
+
+[Lesson_1_reflections.md](../blob/master/Lesson_1_reflections.md)
+
+[Lesson_2_reflections.md](../blob/master/Lesson_2_reflections.md)    
