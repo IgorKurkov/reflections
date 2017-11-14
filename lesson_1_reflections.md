@@ -1,6 +1,11 @@
-<img src="http://media.w3guy.com/wp-content/uploads/2015/02/git.jpg" style="width: 30px;"> 
 
+  <img align="right" src="http://media.w3guy.com/wp-content/uploads/2015/02/git.jpg" width="80" height="80"/> 
+  <img align="left" src="https://www.kdnuggets.com/wp-content/uploads/udacity-logo.jpg" width="300" height="70"/>
+  
+   <img align="middle" src=""/>
+   <img align="middle" src=""/>
 
+## Some reflections about git course ##
 **How did viewing a diff between two versions of a file help you see the bug that
 was introduced?**
 
