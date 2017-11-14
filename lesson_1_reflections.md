@@ -32,6 +32,8 @@ could break something?**
 
 **Now that you have your workspace set up, what do you want to try using Git for?**
 
+[Lesson_2_reflections.md](../blob/master/Lesson_2_reflections.md)
 
+[Lesson_3_reflections.md](../blob/master/Lesson_3_reflections.md)
 
 
