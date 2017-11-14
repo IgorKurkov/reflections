@@ -1,3 +1,6 @@
+<img src="http://media.w3guy.com/wp-content/uploads/2015/02/git.jpg" style="width: 30px;"> 
+
+
 **How did viewing a diff between two versions of a file help you see the bug that
 was introduced?**
 
