@@ -17,9 +17,17 @@ the diagram the way we do?
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+
 How can you use the staging area to make sure you have one commit per logical change?
+  u can use staging area with few commands:
+  git diff 
+  git diff --staged
+  git diff commit1 commit2
+  It very useful for checking yourself and seeing progress 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
   git log --graph --oneline master other_branch_name
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
