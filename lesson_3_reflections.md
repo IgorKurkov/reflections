@@ -31,6 +31,6 @@ and what would be harder?**
 master?  What benefits does each approach have?**
 
 
-[Lesson_1_reflections.md](../blob/master/Lesson_1_reflections.md)
+[Lesson_1_reflections.md](lesson_1_reflections.md)
 
-[Lesson_2_reflections.md](../blob/master/Lesson_2_reflections.md)    
+[Lesson_2_reflections.md](lesson_2_reflections.md)    

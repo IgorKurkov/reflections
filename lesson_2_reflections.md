@@ -28,8 +28,8 @@ What value do you think it offers?**
 **What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?**
 
-[Lesson_1_reflections.md](../blob/master/Lesson_1_reflections.md)
+[Lesson_1_reflections.md](lesson_1_reflections.md)
 
-[Lesson_3_reflections.md](../blob/master/Lesson_3_reflections.md)
+[Lesson_3_reflections.md](lesson_3_reflections.md)
 
 
