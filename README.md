@@ -1,4 +1,4 @@
 # reflections
 udacity task
 
-"```(lesson_1_reflections.txt)
+ .. include:: lesson_1_reflections.txt
