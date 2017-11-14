@@ -23,3 +23,6 @@ How can you use the staging area to make sure you have one commit per logical ch
  git diff --staged
  git diff commit1 commit2
  It very useful for checking yourself and seeing progress 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
